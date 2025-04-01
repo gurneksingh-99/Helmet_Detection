@@ -1,0 +1,7 @@
+path: C:\Users\gurne\Downloads\yoloCGPT\trainingdata
+train: C:\Users\gurne\Downloads\yoloCGPT\trainingdata\train
+val: C:\Users\gurne\Downloads\yoloCGPT\trainingdata\train
+nc: 2
+names:
+- Helmet
+- NumPlate
